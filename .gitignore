@@ -1,0 +1,3 @@
+#archivos o carpetas que no queremos subir al repositorio
+node_modules   
+.env
